@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
-rtsp://localhost:554/live
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
